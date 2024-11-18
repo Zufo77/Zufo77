@@ -18,5 +18,5 @@ https://github.com/Zufo77/Zufo77/blob/main/mydebian.json
     docker rm --force custom-nginx-t2
 4 задача
 https://github.com/Zufo77/Zufo77/blob/main/HW_04_011_Screenshot.png
-https://github.com/Zufo77/Zufo77/blob/main/HW_01_12_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_04_12_Screenshot.png
 
