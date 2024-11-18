@@ -1,4 +1,4 @@
-Домашнее задание по занятию "Введение в виртуализацию. Типы и функции гипервизоров. Обзор рынка вендоров и областей применения"
+![image](https://github.com/user-attachments/assets/c8caad42-e6f6-4cff-b344-6bcc68405ae7)Домашнее задание по занятию "Введение в виртуализацию. Типы и функции гипервизоров. Обзор рынка вендоров и областей применения"
 https://github.com/Zufo77/Zufo77/blob/main/netology_hw_01
 
 
@@ -20,4 +20,12 @@ https://github.com/Zufo77/Zufo77/blob/main/mydebian.json
 4 задача
 https://github.com/Zufo77/Zufo77/blob/main/HW_04_011_Screenshot.png
 https://github.com/Zufo77/Zufo77/blob/main/HW_04_12_Screenshot.png
+
+5 Задача
+https://github.com/Zufo77/Zufo77/blob/main/HW_05_1_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_05_2_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_05_3_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_05_4_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_05_5_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_05_6_Screenshot.png
 
