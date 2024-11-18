@@ -12,8 +12,11 @@ https://github.com/Zufo77/Zufo77/blob/main/mydebian.json
 2. https://github.com/Zufo77/Zufo77/blob/main/Screenshot_for_hw03_2.png
 3. https://github.com/Zufo77/Zufo77/blob/main/netology_hw_04_01
   + скриншоты
-    https://github.com/Zufo77/Zufo77/blob/main/HW_04_01_Screenshot.png
-    https://github.com/Zufo77/Zufo77/blob/main/HW_04_02_Screenshot.png
-    https://github.com/Zufo77/Zufo77/blob/main/HW_04_03_Screenshot.png
-5. + 
+    https://github.com/Zufo77/Zufo77/blob/main/HW_03_01_Screenshot.png
+    https://github.com/Zufo77/Zufo77/blob/main/HW_03_02_Screenshot.png
+    https://github.com/Zufo77/Zufo77/blob/main/HW_03_03_Screenshot.png
+    docker rm --force custom-nginx-t2
+4 задача
+https://github.com/Zufo77/Zufo77/blob/main/HW_04_011_Screenshot.png
+https://github.com/Zufo77/Zufo77/blob/main/HW_01_12_Screenshot.png
 
