@@ -16,6 +16,7 @@ https://github.com/Zufo77/Zufo77/blob/main/mydebian.json
     https://github.com/Zufo77/Zufo77/blob/main/HW_03_02_Screenshot.png
     https://github.com/Zufo77/Zufo77/blob/main/HW_03_03_Screenshot.png
     docker rm --force custom-nginx-t2
+    
 4 задача
 https://github.com/Zufo77/Zufo77/blob/main/HW_04_011_Screenshot.png
 https://github.com/Zufo77/Zufo77/blob/main/HW_04_12_Screenshot.png
